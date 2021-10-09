@@ -9,3 +9,7 @@ In this project, I create and train a **Convolutional Neural Network** model to 
 
 #### Google Street View Dataset (Available for download for access with Google Colab/Jupyter)
 https://drive.google.com/drive/folders/1AuRYnz7hihnEA2EwFCnGXAtwZyXXYucc?usp=sharing
+
+
+## Fashion_MNIST_ANN.ipynb
+In this project, I explore some methods to approach classification problems with an **Artificial Neural Network** model. This ANN is used to classify articles of clothing using the Fashion MNIST dataset from TensorFlow.
