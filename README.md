@@ -4,6 +4,9 @@ A Deep Learning project space in which I explore various methods of constructing
 ## Neural_Networks_Admission_Prediction.ipynb
 In this project, I explore feed-forward neural networks to build a model that predicts a student's probability of being accepted into UCLA using **Keras**. In this project, I explore various hyperparameter tunings in an attempt to improve on previous models.
 
+#### Admission_Prediction.csv
+This is the dataset used to analyze a student's probability of gaining acceptance into UCLA.
+
 ## Street_View_ANN.ipynb
 In this project, I create and train an **Artificial Neural Network** model to recognize Google Street View address numbers.
 
