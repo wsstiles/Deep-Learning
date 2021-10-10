@@ -22,3 +22,7 @@ In this project, I explore some methods to approach classification problems with
 
 ## Fashion_MNIST_CNN.ipynb
 In this project, I further explore methods to approach classification problems by using a **Convolutional Neural Network** model on the fashion MNIST dataset. This CNN is used to classify articles of clothing using the Fashion MNIST dataset from TensorFlow.
+
+
+## CIFAR_10_Object_Recognition_CNN.ipynb
+In this project, I explore the CIFAR-10 image set from Keras in attempt to build a **Convolutional Neural Network** that can classify images that fall into 10 distinct categories.  After tuning some hyperparameters for the constructed CNN, I go on to explore the technique of **Transfer Learning** by utilizing the VGG16 pre-trained model to attempt to improve on the model.
