@@ -13,3 +13,6 @@ https://drive.google.com/drive/folders/1AuRYnz7hihnEA2EwFCnGXAtwZyXXYucc?usp=sha
 
 ## Fashion_MNIST_ANN.ipynb
 In this project, I explore some methods to approach classification problems with an **Artificial Neural Network** model. This ANN is used to classify articles of clothing using the Fashion MNIST dataset from TensorFlow.
+
+## Fashion_MNIST_CNN.ipynb
+In this project, I further explore methods to approach classification problems by using a **Convolutional Neural Network** model on the fashion MNIST dataset. This ANN is used to classify articles of clothing using the Fashion MNIST dataset from TensorFlow.
